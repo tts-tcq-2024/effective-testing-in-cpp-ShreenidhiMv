@@ -27,6 +27,7 @@ void testSizeFunction() {
     assert(size(0) == 'S');
 }
 
+
 int main() {
     testSizeFunction();
     std::cout << "All is well (maybe!)\n";
